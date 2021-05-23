@@ -2,10 +2,10 @@
 
 Para fins de estudo esse código foi criado;
 
-Para rodar a aplicação presica-se do (*Nodejs* e do *npm* || *yarn*)
+Para rodar a aplicação presica-se do (**Nodejs** e do **npm** || **yarn**)
 
 ## Instalando Expo
-Primeiro instalamos com npm explo-cli -y
+Primeiro instalamos o expo
 
 ```shell
 
